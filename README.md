@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ayushi
-I am a pre-final year Student at Thapar Institute of Engineering and Technology, Patiala pursuing a B.E. in Computer Science.
+I am a Final year Student at Thapar Institute of Engineering and Technology, Patiala pursuing a B.E. in Computer Science.
 <!-- - I’m currently working on **[My Portfolio Website](www)**-->
 - 💻 Currently working on **Data Structures and Algorithms**.
 - 📝 Currently learning: **NodeJS, ReactJS and DSA in C++** 
